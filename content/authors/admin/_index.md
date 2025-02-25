@@ -23,7 +23,9 @@ highlight_name: true
 role: Ph.D Candidate
 
 # Organizations/Affiliations to display in Biography blox
-
+affiliations:
+  - name: Faculty of Human Sciences
+    url: https://www.waseda.jp/fhum/
 organizations:
   - name: Waseda University
     url: https://www.waseda.jp/top/
