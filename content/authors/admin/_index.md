@@ -62,7 +62,7 @@ education:
     date_start: 2022-04-01
     date_end: 2025-03-31
     summary: |
-      Thesis on "Health Analytics to Estimate Latent Factors Using Causal Discovery". Supervised by [Prof. Qun Jin](https://w-rdb.waseda.jp/html/100000696_en.html). My doctoral program is supported by the Japan Science and Technology Agency Support for Pioneering Research Initiated by the Next Generation (SPRING). Presented papers at 2 IEEE conferences, and the contributions have published in 3 Lecture Notes in Computer Science and 2 journals.
+      Thesis on "Health Analytics to Estimate Latent Factors Using Causal Discovery". Supervised by [Prof. Qun Jin](https://w-rdb.waseda.jp/html/100000696_en.html), co-supervised by [Prof. Shoji Nishimura](https://w-rdb.waseda.jp/html/100000547_en.html) and [Prof. Atsushi Ogihara](https://w-rdb.waseda.jp/html/100000619_en.html). My doctoral program is supported by the Japan Science and Technology Agency Support for Pioneering Research Initiated by the Next Generation (SPRING). Presented papers at 2 IEEE conferences, and the contributions have published in 3 Lecture Notes in Computer Science and 2 journals.
     # button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
