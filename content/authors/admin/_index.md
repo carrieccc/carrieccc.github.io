@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 叢瑞晨
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: CONG RUICHEN
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ruichen
+last_name: Cong
 
 # Status emoji
 status:
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Ph.D Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: NISLAB, Faculty of Human Sciences, Waseda University
+    url: https://nislab.human.waseda.ac.jp/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -38,13 +38,13 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/carrieccc
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/schhp?hl=ja&authuser=2
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0001-9435-4739
 
 interests:
   - Artificial Intelligence
