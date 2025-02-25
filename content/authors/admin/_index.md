@@ -23,6 +23,9 @@ highlight_name: true
 role: Ph.D Candidate
 
 # Organizations/Affiliations to display in Biography blox
+laboratory:
+  - name: NISLAB (Networked Information Systems Laboratory)
+    url: https://nislab.human.waseda.ac.jp/
 affiliations:
   - name: Faculty of Human Sciences
     url: https://www.waseda.jp/fhum/
