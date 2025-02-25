@@ -74,7 +74,7 @@ education:
       GPA: 4.0/4.0
       Thesis on "Individual-Initiated Access Control for Data Sharing with Blockchain". Supervised by [Prof. Qun Jin](https://w-rdb.waseda.jp/html/100000696_en.html). Presented papers at 1 IEEE conference, and the contributions have published in 1 Lecture Notes in Computer Science.
 
-  - area: BSc (Human Sciences)
+  - area: B.S. (Human Sciences)
     institution: Waseda University
     date_start: 2016-04-01
     date_end: 2020-03-31
