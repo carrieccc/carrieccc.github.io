@@ -49,9 +49,12 @@ profiles:
     url: https://orcid.org/0000-0001-9435-4739
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - IoT (Internet of Things)
+  - Applied AI/ML
+  - Agentic AI
+  - Health Information
+  - Human Behavior Modeling
+  - Metaverse/VR
 
 education:
   - area: Ph.D (Human Sciences)
@@ -77,31 +80,10 @@ education:
     date_end: 2020-03-31
     summary: |
       GPA: 3.6/4.0
-      Thesis on "Individual-Initiated Access Control for Data Sharing with Blockchain". Supervised by [Prof. Qun Jin](https://w-rdb.waseda.jp/html/100000696_en.html). The contributions have published in 1 International Conference and 1 journal.
+      Thesis on "Investigating Cognitive Load in Multimedia Presentation Using an Eye Tracker". Supervised by [Prof. Qun Jin](https://w-rdb.waseda.jp/html/100000696_en.html). The contributions have published in 1 International Conference and 1 journal.
 
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+# work:
+ 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -138,12 +120,12 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Japanese
     percent: 100
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
+  - name: English
+    percent: 80
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -179,4 +161,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! I will be an Assistant Professor at Faculty of Human Sciences, Waseda University from April 1st. I focus on applying human-computer interaction (HCI), artificial intelligence (AI) methods, VR methods for health applications and education applications.
