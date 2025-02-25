@@ -62,7 +62,8 @@ education:
     date_start: 2022-04-01
     date_end: 2025-03-31
     summary: |
-      Thesis on "Health Analytics to Estimate Latent Factors Using Causal Discovery". Supervised by [Prof. Qun Jin](https://w-rdb.waseda.jp/html/100000696_en.html). Presented papers at 2 IEEE conferences, and the contributions have published in 3 Lecture Notes in Computer Science and 2 journals.
+      Thesis on "Health Analytics to Estimate Latent Factors Using Causal Discovery". Supervised by [Prof. Qun Jin](https://w-rdb.waseda.jp/html/100000696_en.html). My doctoral program is supported by the Japan Science and Technology Agency Support for
+Pioneering Research Initiated by the Next Generation (SPRING). Presented papers at 2 IEEE conferences, and the contributions have published in 3 Lecture Notes in Computer Science and 2 journals.
     # button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
@@ -161,4 +162,4 @@ awards:
 
 ## About Me
 
-Hi! I will be an Assistant Professor at Faculty of Human Sciences, Waseda University from April 1st. I focus on applying human-computer interaction (HCI), artificial intelligence (AI) methods, VR methods for health applications and education applications.
+Hello! I will be starting as an Assistant Professor at the Faculty of Human Sciences, Waseda University, Japan, on April 1st. My research focuses on applying human-computer interaction (HCI), artificial intelligence (AI) methods, and virtual reality (VR) techniques to model human behavior in the context of health analytics and educational applications aimed at enhancing human well-being.
