@@ -30,7 +30,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *2024 IEEE International Conference on E-health Networking, Application & Services (HealthCom)*
-publication_short: In *IEEE*
+# publication_short: In *IEEE*
 
 abstract: Due to the increasingly irregular lifestyles, the health status of youth is gradually deteriorating. It is important to understand the risk factors that contribute to this deterioration. In this study, we focus on analyzing lifestyles and behaviors with causal discovery to clarify the relationships between them and youth health. We analyze objective wearable device data and subjective self-assessment health data using NOTEARS, a causal discovery algorithm, and construct causal graphs. Experiment results show that there are causal relationships between exercise factors and stress degree, and between sleep quality and self-assessment score. Unhealthy habits like alcohol consumption and staying up late negatively affect youth health. Notably, females and individuals of higher BMI are more prone to low mood and stress.
 
