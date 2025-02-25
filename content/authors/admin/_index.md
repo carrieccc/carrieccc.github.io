@@ -23,12 +23,7 @@ highlight_name: true
 role: Ph.D Candidate
 
 # Organizations/Affiliations to display in Biography blox
-laboratory:
-  - name: NISLAB (Networked Information Systems Laboratory)
-    url: https://nislab.human.waseda.ac.jp/
-affiliation:
-  - name: Faculty of Human Sciences
-    url: https://www.waseda.jp/fhum/
+
 organizations:
   - name: Waseda University
     url: https://www.waseda.jp/top/
@@ -39,14 +34,10 @@ profiles:
   - icon: at-symbol
     url: 'mailto:rcong@aoni.waseda.jp'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/carrieco31
   - icon: brands/github
     url: https://github.com/carrieccc
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/schhp?hl=ja&authuser=2
   - icon: academicons/orcid
@@ -58,37 +49,30 @@ interests:
   - Information Retrieval
 
 education:
-  - area: Ph.D Artificial Intelligence
+  - area: Ph.D (Human Sciences)
     institution: Waseda University
     date_start: 2022-04-01
     date_end: 2025-03-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on "Health Analytics to Estimate Latent Factors Using Causal Discovery". Supervised by [Prof Qun Jin](https://w-rdb.waseda.jp/html/100000696_en.html). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: M.S. Artificial Intelligence
+  - area: M.S. (Human Sciences)
     institution: Waseda University
     date_start: 2020-04-01
     date_end: 2022-03-31
     summary: |
       GPA: 4.0/4.0
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Qun Jin](https://w-rdb.waseda.jp/html/100000696_en.html). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
+  - area: BSc (Human Sciences)
     institution: Waseda University
     date_start: 2016-04-01
     date_end: 2020-03-31
     summary: |
       GPA: 3.6/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
