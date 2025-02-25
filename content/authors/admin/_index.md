@@ -59,17 +59,17 @@ education:
     date_start: 2022-04-01
     date_end: 2025-03-31
     summary: |
-      Thesis on "Health Analytics to Estimate Latent Factors Using Causal Discovery". Supervised by [Prof Qun Jin](https://w-rdb.waseda.jp/html/100000696_en.html). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      Thesis on "Health Analytics to Estimate Latent Factors Using Causal Discovery". Supervised by [Prof. Qun Jin](https://w-rdb.waseda.jp/html/100000696_en.html). Presented papers at 2 IEEE conferences, and the contributions have published in 3 Lecture Notes in Computer Science and 2 journals.
+    # button:
+    #  text: 'Read Thesis'
+    #  url: 'https://example.com'
   - area: M.S. (Human Sciences)
     institution: Waseda University
     date_start: 2020-04-01
     date_end: 2022-03-31
     summary: |
       GPA: 4.0/4.0
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Qun Jin](https://w-rdb.waseda.jp/html/100000696_en.html). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on "Individual-Initiated Access Control for Data Sharing with Blockchain". Supervised by [Prof. Qun Jin](https://w-rdb.waseda.jp/html/100000696_en.html). Presented papers at 1 IEEE conference, and the contributions have published in 1 Lecture Notes in Computer Science.
 
   - area: BSc (Human Sciences)
     institution: Waseda University
@@ -77,6 +77,7 @@ education:
     date_end: 2020-03-31
     summary: |
       GPA: 3.6/4.0
+      Thesis on "Individual-Initiated Access Control for Data Sharing with Blockchain". Supervised by [Prof. Qun Jin](https://w-rdb.waseda.jp/html/100000696_en.html). The contributions have published in 1 International Conference and 1 journal.
 
 work:
   - position: Director of Cloud Infrastructure
