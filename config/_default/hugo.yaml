@@ -6,7 +6,7 @@
 # Website name
 title: Ruichen Cong
 # Website URL
-baseURL: 'https://carrieccc.github.io/'
+baseURL: 'http://example.com/'
 
 ############################
 ## LANGUAGE
