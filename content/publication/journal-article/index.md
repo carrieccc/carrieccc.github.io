@@ -65,7 +65,7 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: example
----
+
 title: "Exploratory and Interpretable Approach to Estimating Latent Health Risk Factors Without Using Domain Knowledge"
 authors:
 - R. Cong
