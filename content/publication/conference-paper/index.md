@@ -17,11 +17,11 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '18-20 November 2024'
+date: '2024-11-18'
 doi: '10.1109/HealthCom60970.2024.10880758'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '18 February 2025'
+publishDate: '2025-02-18'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
