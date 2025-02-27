@@ -6,7 +6,7 @@
 # Website name
 title: Ruichen Cong
 # Website URL
-baseURL: 'http://example.com/'
+baseURL: 'https://example.com/'
 
 ############################
 ## LANGUAGE
