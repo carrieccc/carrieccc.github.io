@@ -18,7 +18,7 @@ authors:
 #  - 'Equal contribution'
 
 date: '2024-11-18'
-doi: '10.1109/HealthCom60970.2024.10880758'
+doi: 'https://doi.org/10.1109/HealthCom60970.2024.10880758'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2025-02-18'
