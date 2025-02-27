@@ -161,4 +161,4 @@ awards:
 
 ## About Me
 
-Hello! I will be starting as an Assistant Professor at the Faculty of Human Sciences, Waseda University, Japan, on April 1st. My research focuses on applying human-computer interaction (HCI), artificial intelligence (AI) methods, and virtual reality (VR) techniques to model human behavior in the context of health analytics and educational applications aimed at enhancing human well-being.
+Hello! I will be starting as an Assistant Professor at the Faculty of Human Sciences, Waseda University, Japan, on April 1st. My research focuses on applying human-computer interaction (HCI), artificial intelligence (AI) methods, and virtual reality (VR) techniques to model human behavior in the context of health analytics and educational applications aimed at enhancing human well-being. If you are interested in my research, please feel free to contact me. I am happy to communicate in Japanese, Chinese, or English!
