@@ -6,7 +6,7 @@ title: 'Analyzing Lifestyle and Behavior with Causal Discovery in Health Data fr
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - J. Zhang
-  - **R. Cong**
+  - R. Cong
   - O. Deng
   - Y. Li
   - K. Lam
