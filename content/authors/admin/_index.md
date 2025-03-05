@@ -86,23 +86,19 @@ education:
 
 # work:
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+  - position: Learning Assistant
+    company_name: Global Education Center (Math & Stat Center), Waseda University 
+    date_start: 2019-04-01
+    date_end: 2025-03-31
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - position: Teaching Assistant
+    company_name: School of Human Sciences, Waseda University
+    date_start: 2017-04-01
+    date_end: 2020-03-31
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
