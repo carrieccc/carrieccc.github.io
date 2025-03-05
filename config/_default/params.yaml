@@ -2,6 +2,8 @@
 # Guide: https://docs.hugoblox.com/tutorial/
 # Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+site:
+  baseURL: "https://carrieccc.github.io/"
 
 # Appearance
 appearance:
